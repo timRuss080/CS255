@@ -1,6 +1,6 @@
 # CS255
 
-Our client was DriveerPass. They wanted us to design a system that would give customers the ability to take practice tests for a driver's education course, as well as set up appointments for an in-person driving test before they went to the DMV for the real tests.
+Our client was DriverPass. They wanted us to design a system that would give customers the ability to take practice tests for a driver's education course, as well as set up appointments for an in-person driving test before they went to the DMV for the real tests.
 
 I felt that I did a good job in designing the various system diagrams, as well as using common terminology for a less-technically oriented listener.
 
